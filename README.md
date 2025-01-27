@@ -27,7 +27,7 @@ b. Model Result:
 ##### Conclusion
 The Digits dataset from Scikit-Learn enables the development of high-accuracy multi-class classification models. This project provides a foundational implementation of ML that can be further enhanced with model optimization, validation techniques, and enriched datasets. These steps can lead to a robust classification system.
 
-> I acknowledge that there may still be many errors or areas for improvement in this project. I appreciate your understanding and am very open to feedback to help me refine and enhance this implementation further. Thank you for exploring this work with 
+> I acknowledge that there may still be many errors or areas for improvement in this project. I appreciate your understanding and am very open to feedback to help me refine and enhance this implementation further. Thank you for exploring this work 
 
 
 
